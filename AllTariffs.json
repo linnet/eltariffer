@@ -1,9 +1,9 @@
 {
-  "UpdatedAt": "2024-06-09T12:15:57.897312+02:00",
+  "UpdatedAt": "2024-06-09T13:47:19.35631+02:00",
   "Suppliers": [
     {
       "Id": "cerius",
-      "Name": "Cerius  - 740",
+      "Name": "Cerius",
       "Region": "DK2",
       "Tariffs": [
         {
@@ -106,7 +106,7 @@
     },
     {
       "Id": "nakskov-elnet",
-      "Name": "Cerius  - 853",
+      "Name": "Cerius (Nakskov Elnet)",
       "Region": "DK2",
       "Tariffs": [
         {
