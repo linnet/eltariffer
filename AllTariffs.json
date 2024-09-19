@@ -1,5 +1,5 @@
 {
-  "UpdatedAt": "2024-09-05T19:00:19.948484+02:00",
+  "UpdatedAt": "2024-09-19T20:37:19.719362+02:00",
   "Suppliers": [
     {
       "Id": "cerius",
@@ -1221,7 +1221,7 @@
           "Code": "IEV-NT-11",
           "Note": "Transport - Overordnet net",
           "ValidFrom": "2024-05-01",
-          "ValidTo": null,
+          "ValidTo": "2024-11-01",
           "PricesInclVAT": [
             0.01875000,
             0.01875000,
@@ -1247,6 +1247,38 @@
             0.01875000,
             0.01875000,
             0.01875000
+          ]
+        },
+        {
+          "Code": "IEV-NT-11",
+          "Note": "Transport - Overordnet net",
+          "ValidFrom": "2024-11-01",
+          "ValidTo": null,
+          "PricesInclVAT": [
+            0.00000000,
+            0.00000000,
+            0.00000000,
+            0.00000000,
+            0.00000000,
+            0.00000000,
+            0.00000000,
+            0.00000000,
+            0.00000000,
+            0.00000000,
+            0.00000000,
+            0.00000000,
+            0.00000000,
+            0.00000000,
+            0.00000000,
+            0.00000000,
+            0.00000000,
+            0.00000000,
+            0.00000000,
+            0.00000000,
+            0.00000000,
+            0.00000000,
+            0.00000000,
+            0.00000000
           ]
         }
       ]
@@ -8129,15 +8161,25 @@
   "SystemTariff": [
     {
       "ValidFrom": "2024-01-01",
-      "ValidTo": null,
+      "ValidTo": "2025-01-01",
       "PriceInclVAT": 0.06375000
+    },
+    {
+      "ValidFrom": "2025-01-01",
+      "ValidTo": null,
+      "PriceInclVAT": 0.09250000
     }
   ],
   "TransmissionTariff": [
     {
       "ValidFrom": "2024-01-01",
-      "ValidTo": null,
+      "ValidTo": "2025-01-01",
       "PriceInclVAT": 0.09250000
+    },
+    {
+      "ValidFrom": "2025-01-01",
+      "ValidTo": null,
+      "PriceInclVAT": 0.07625000
     }
   ],
   "Tax": [
