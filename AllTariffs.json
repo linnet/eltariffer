@@ -1,5 +1,5 @@
 {
-  "UpdatedAt": "2025-04-30T18:06:53.849587+02:00",
+  "UpdatedAt": "2025-05-08T19:50:04.655811+02:00",
   "Suppliers": [
     {
       "Id": "cerius",
@@ -2157,7 +2157,7 @@
         },
         {
           "Code": "5NCFF",
-          "Note": "Nettarif C Flex",
+          "Note": "Nettarif C",
           "ValidFrom": "2025-07-01",
           "ValidTo": null,
           "PricesInclVAT": [
